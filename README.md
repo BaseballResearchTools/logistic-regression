@@ -1,1 +1,1 @@
-# logistic-regression
+# Logistic Regression in R
